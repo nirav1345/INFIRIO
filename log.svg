@@ -1,0 +1,13 @@
+<svg width="219" height="72" viewBox="0 0 219 72" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @font-face {
+      font-family: 'Montilla';
+      src: url('/Users/nileshthakur/Downloads/montilla-font/MontillaDemo-yY72d.otf');
+    }
+    text {
+      font-family: 'Montilla', sans-serif;
+      font-weight: bold;
+    }
+  </style>
+  <text x="0" y="50" font-size="50" fill="white">INFIRIO.</text>
+</svg>
